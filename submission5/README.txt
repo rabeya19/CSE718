@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtu.be/5KSLkfdmm1c
 
 Public link to the slide (Anyone on the internet can view without login):
-https://drive.google.com/file/d/185WxweHz1Mbf6uWgTlBPIgL_P3zh7NnX/view?usp=sharing
+https://docs.google.com/presentation/d/17ZzH93pSBPE7cuvt-dMMjuk3WxXJI6LB/edit?usp=sharing&ouid=117042189328596540520&rtpof=true&sd=true
 
 Google Drive Link:
 https://drive.google.com/drive/folders/1ofp9bjxsFg_T0akV29Zkt8ChIzvEylbB?usp=sharing
